@@ -19,3 +19,30 @@ Here's how the PCB looks right now, both from the editor and 3D viewer:
 For the next time I work on this I'd like to figure out the final layout and start routing the PCB!
 
 **Time spent this session: 4h**
+
+# May 28: Updated PCB and switch matrix (schematic) and started routing
+
+I got a lot of stuff done today!!
+
+First off, I moved around some components and switches in the PCB so that the spacing makes more sense and I can make the PCB smaller.
+
+Once I was happy with how the general layout looked, I was going to start routing the switches but then I realized the rows and columns were a total mess :pf:
+
+I had to change the switch matrix in the schematic to reflect how the switches were actually laid out in the PCB and therefore make routing easier.
+
+Here's how the matrix looks now:
+
+<img src="assets/switch-matrix-may-28.png" width=500px>
+
+Once that was done I started routing everything! I had to redo it a couple of times but here's how the traces look now (I think it looks pretty neat!)
+
+<img src="assets/pcb-may-28.png" width=500px>
+
+Now I only have to route the neopixels (I'll also have to update the schematic for those so that the connections make sense) and add silkscreen art. Once I'm done with that I think I can move on to the case design :D
+
+Here's how the PCB looks right now from the 3D view:
+
+<img src="assets/pcb-3d-front-may-28.png" width=500px>
+<img src="assets/pcb-3d-back-may-28.png" width=500px>
+
+**Time spent this session: 4h**
