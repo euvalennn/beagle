@@ -46,3 +46,18 @@ Here's how the PCB looks right now from the 3D view:
 <img src="assets/pcb-3d-back-may-28.png" width=500px>
 
 **Time spent this session: 4h**
+
+# May 30: Did more routing and fixed DRC errors
+
+Today I changed the neopixels' connections on the schematic so that they match the actual layout on the PCB and then started routing! I actually finished routing all of them as well as the VCC connections, so the only thing left to route now is GND. I also ran a DRC check and moved around some components that were overlapping so I shouldn't have any problems with that now.
+Here's a pic of the PCB right now:
+
+<img src="assets/pcb-may-30.png" width=500px>
+
+Even though I already finished routing all the neopixels, I think I might get rid of them and replace them with reverse mount ones on every switch. Right now I don't think they'll be too visible as the case will (probably) be 3D printed and all the neopixels are on the back on the PCB :pf:
+
+Anyway once I figure the neopixels thing out I want to start with the case design!!
+
+Wish me luck 😭
+
+**Time spent this session 1.5h**
