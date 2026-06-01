@@ -61,3 +61,23 @@ Anyway once I figure the neopixels thing out I want to start with the case desig
 Wish me luck 😭
 
 **Time spent this session 1.5h**
+
+# May 31: Re-did all neopixels and did even more routing
+
+Well, I ended up removing all of the neopixels I had already routed from the schematic and PCB to add reverse mount ones just like I said :pf:
+
+Here's how they look on the schematic now:
+
+<img src="assets/neopixels-may-31.png" width=500px>
+
+After that, I placed all of them on their respective keys (I actually found out KiCad has an array feature which made this 100x easier!!) and then I routed all of them. It took quite some time because traces I routed before were going over the neopixels' holes and pads, so I had to move around a lot of them to fix the million new DRC errors that popped up 😭
+
+Anyways here's how the PCB looks:
+
+<img src="assets/pcb-may-31.png" width=500px>
+<img src="assets/pcb-3d-front-may-31.png" width=500px>
+<img src="assets/pcb-3d-back-may-31.png" width=500px>
+
+I still have to route VCC and GND and do silkscreen but I feel like I'm closer to finishing now!!
+
+**Time spent this session: 3h**
