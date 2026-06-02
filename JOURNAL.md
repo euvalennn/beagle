@@ -81,3 +81,32 @@ Anyways here's how the PCB looks:
 I still have to route VCC and GND and do silkscreen but I feel like I'm closer to finishing now!!
 
 **Time spent this session: 3h**
+
+# June 1: Finished routing the PCB and (kinda) started with CAD
+
+I'm done with the PCB! (for now at least :pf:)
+
+I noticed for some reason I was missing the stabilizers so I added those again today, and once that was done I added a 3v3 power plane on the front of the board and a GND ground plane on the back. That saved me a lot of time since I didn't have to route GND for all of the neopixels (they're on the back) and I just popped a via in each neopixel VCC pad so that they connect to the power plane on the front.
+
+I still had to spend some time adjusting traces so that all of the planes were connected between each other and everything is routed properly, but I ended up with 0 unconnected items and 0 DRC errors!!
+
+Here's a screenshot of the PCB:
+
+<img src="assets/pcb-june-1.png" width=500px>
+
+And here are both planes highlighted:
+
+<img src="assets/pcb-front-june-1.png" width=500px>
+<img src="assets/pcb-back-june-1.png" width=500px>
+
+I do have to adjust the silkscreen and add some art and decorations to it but the technical aspect is done for now. I think it'd be best practice to add capacitors to each neopixel but honestly I do think they'll work fine without and uh I kinda wanna move on from the PCB (at least for now) I'm tired of routing 😭
+
+I also measured the space between keys to design the keyboard plate for the CAD, and got it done pretty accurately:
+
+<img src="assets/keyboard-layout-editor.png" width=500px>
+
+After downloading the DXF I played around with it in Fusion for a bit, but didn't really get any work on the case done :pf:
+
+Now I have to think about how I want the case to look and how to like, assemble everything I guess lol
+
+**Time spent this session: 2h**
