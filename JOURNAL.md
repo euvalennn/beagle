@@ -110,3 +110,17 @@ After downloading the DXF I played around with it in Fusion for a bit, but didn'
 Now I have to think about how I want the case to look and how to like, assemble everything I guess lol
 
 **Time spent this session: 2h**
+
+# June 4: Actually started w the CAD
+
+Today I got started with the CAD in Fusion. I started off looking at alex's orpheuspad's design to see how she put together all of the case's pieces (I'm not ripping off her design, I just wanted to look at the space between parts and how the screws and heatset inserts were positioned and all cause I really suck at that, I'm bad with CAD yall 😭)
+
+Then I started doing a really basic case shape (literally just a gray box w the same dimensions as the PCB) and started placing keycaps above all of the switches. It took me some time because I'm using the exact model for each row :pf:
+
+After that I imported the DXF file for the plate and struggled for some time trying to align it properly. Turns out that for some reason I was trying to make it so it's the exact same size as the PCB and fits inside the case, but idk why I was doing that I'm not mounting the plate like that 💀
+
+Anyways I know it looks pretty ugly right now but I promise this is just a starting point, once I get some time I'll adjust the plate and start designing the actual case. Screenshot:
+
+<img src="assets/cad-june-4.png" width=500px>
+
+**Time spent this session: 1.5h**
