@@ -124,3 +124,24 @@ Anyways I know it looks pretty ugly right now but I promise this is just a start
 <img src="assets/cad-june-4.png" width=500px>
 
 **Time spent this session: 1.5h**
+
+# June 6: More CAD stuff!!
+
+I did more work on the case today :p
+
+First off, to make it so my plate is aligned with the rest of the case I deleted it altogether and instead inserted the plate's DXF into the original sketch I used to extrude the body. Then I measured the distances between the edge of the PCB and the left-most key in KiCad to calculate how much I'd have to move the plate for it to be aligned with the switches on the PCB. Doing this, I get to use the same sketch for the plate and the body so that they both have the same dimensions.
+
+Then I extruded the plate by 1.5mm just above the body of the case and it was aligned perfectly! :D
+
+After that I started designing the top part of the case, I left some space around the keys so that the keycaps can press down properly and also added holes for the OLED and the pico. I made it 5mm thick, but I might change it later if it's too thin.
+
+Once I had every part extruded I started adding fillets on a lot of places (corners of the case + top part + borders around keycaps, etc) and made the hole for the USB connector look a bit better instead of having it be just a square cutout. I used a chamfer to make the hole for the OLED but I might change it later as I'm not 100% sure it'll look good :pf:
+
+Anyways I yapped too much here are some screenshots :3 (color scheme isn't final!)
+
+<img src="assets/cad-front-june-6.png" width=500px>
+<img src="assets/cad-back-june-6.png" width=500px>
+
+Now I think I only have to add screw holes (and maybe heatset inserts?) and make the base for the case so that it's sitting on an angle if that makes any sense lol
+
+**Total time spent this session: 2h**
