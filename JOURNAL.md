@@ -145,3 +145,24 @@ Anyways I yapped too much here are some screenshots :3 (color scheme isn't final
 Now I think I only have to add screw holes (and maybe heatset inserts?) and make the base for the case so that it's sitting on an angle if that makes any sense lol
 
 **Total time spent this session: 2h**
+
+# June 11: Figma design!
+
+As the title says, today I did some designing for the PCB's silkscreen in Figma!
+
+First I measured the PCB in KiCad and then I created a frame with a 10px per 1mm ratio so that the design is high quality and proportional to the PCB's dimensions.
+
+Then I just started designing whatever I thought would look cute on the silkscreen, most of it is hand drawn by me except for the stickers and the two little boxes on the left (I think it's pretty obvious my handwriting isn't that perfect lmao)
+
+Screenshots!!
+
+<img src="assets/silkscreen-front-june-11.jpeg" width=500px>
+<img src="assets/silkscreen-back-june-11.jpeg" width=500px>
+
+I used Helvetica as the font for the boxes because I wanted to go for an MTA-like design and I think it looks pretty good!
+
+Once all of the components are soldered most of the silkscreen (especially the front side) won't be visible but I still wanted to make it look nice instead of just having a blank black PCB.
+
+Sorry if this entry is a bit short I just don't really know what else to talk about here lol
+
+**Time spent this session: 1.5h**
