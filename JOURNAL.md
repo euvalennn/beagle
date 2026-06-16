@@ -166,3 +166,27 @@ Once all of the components are soldered most of the silkscreen (especially the f
 Sorry if this entry is a bit short I just don't really know what else to talk about here lol
 
 **Time spent this session: 1.5h**
+
+# June 14: CAD almost done :p
+
+Yet again I've worked on the case today, mostly doing the base.
+
+I wasn't sure how to make it so that it extrudes at an angle (idk if that makes sense lol) but after some googling I realized I could just sketch the base from the side of the case and then extrude it sideways so that it's sitting at an angle and that worked wooooo
+
+After that I started adding screw holes (I think I'm going to use M3 heatset inserts so the hackpad guide was really helpful here) and uhh extruded them onto the case not much to say about that :pf:
+
+Once I was done with that I wanted to add the HC knob model to the CAD assembly but when I was gonna add it I realized I had the wrong model for the rotary encoder (I used the 20mm footprint and the model was definitely smaller) so I downloaded the right model, updated it on KiCad, exported the PCB .step again and then added the new model to Fusion
+
+Then I added the knob model and realized the "h" was sideways (because of the way my rotary was positioned on the PCB) so I struggled for a bit trying to rotate it cause that was easier than changing the footprint on KiCad 😭
+
+Anyway uhh after placing the knob I gave it a nicer color to match the rest of the case and that's it!!
+
+I think I'll try engraving some of the PCB's silkscreen on the back of the case (namely the two boxes and the dog drawing) and probably place 3D models for the screws and inserts to make sure everything fits together
+
+Pics!!
+
+<img src="assets/cad-front-june-14.png" width=500px>
+<img src="assets/cad-back-june-14.png" width=500px>
+<img src="assets/cad-base-june-14.png" width=500px>
+
+**Time spent this session: 1h**
