@@ -190,3 +190,20 @@ Pics!!
 <img src="assets/cad-base-june-14.png" width=500px>
 
 **Time spent this session: 1h**
+
+# June 16: Finished CAD assembly!
+
+First off I changed up my Figma file a bit so that I can export the two info boxes as SVGs and extrude them into the base of the case! I also tried doing the same thing for the dog drawing but it looked weird in Fusion so I didn't include it
+
+Once that was done I looked for 3D models for the inserts and screws to add into the assembly, McMaster-Carr was useful since it had high-quality 3D models of everything
+
+I'm not 100% sure if the engravings I made will look good in the actual 3D print but at least they do in the CAD :pf:
+
+Anyways I don't think I have much more to say so here are some screenshots:
+
+<img src="assets/cad-base-june-16.png" width=500px>
+<img src="assets/cad-screw-june-16.png" width=100px>
+
+I think I'm pretty much done now!! I only have to work on the firmware and README now I don't really like doing those but I kinda have to 😭
+
+**Time spent this session: 0.5h**
