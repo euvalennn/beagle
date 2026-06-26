@@ -1,0 +1,4 @@
+#define ENCODER_A_PINS { GP27 }
+#define ENCODER_B_PINS { GP26 }
+#define I2C1_SDA_PIN GP20
+#define I2C1_SCL_PIN GP21
