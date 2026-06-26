@@ -1,4 +1,4 @@
-# Beagle
+# beagle
 
 <img src="assets/renders/render1.png" width=500px>
 
