@@ -29,6 +29,8 @@ NOTE: the actual color scheme is subject to change based on availability 😭
 
 ## PCB and schematics screenshots
 
+see it online [here](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Feuvalennn%2Fbeagle%2Ftree%2Fmain%2Fpcb)!
+
 <img src="assets/pcb-final.png" width=500px>\
 <img src="assets/pcb-front-final.png" width=500px>\
 <img src="assets/pcb-back-final.png" width=500px>\
