@@ -207,3 +207,53 @@ Anyways I don't think I have much more to say so here are some screenshots:
 I think I'm pretty much done now!! I only have to work on the firmware and README now I don't really like doing those but I kinda have to 😭
 
 **Time spent this session: 0.5h**
+
+# August 23: Finally started assembling the keyboard and soldered all neopixels!!
+
+I finally got started building my project IRL!! Yippeeee
+
+First off I soldered the headers on my Orpheus Pico, and honestly setting everything up and getting my desk ready to solder took more time than the actual soldering itself lmao
+
+Anyways I'm still like a total beginner at soldering so I'm pretty happy with how this turned out!!
+
+<img src="assets/pico-aug-23.jpeg" width=500px>
+
+Once I got that soldered I went to sleep :pf: (technically this is all one day cause I soldered after midnight lol)
+
+Okay so uhh once I woke up and had lunch I polished the headers' soldering a little bit to make sure they were reliable and then got ready to solder the neopixels even though they're really small and I was terrified of messing up aaaaa
+
+<img src="assets/neopixel-aug-23.jpeg" width=500px>
+
+I got started regardless but the thing is I used some random Chinese flux I bought online because I thought that would supposedly make soldering easier but for some reason it just made everything 10x harder and solder wouldn't stick and um long story short I ended up burning a neopixel's casing just trying to remove it so yeah that sucks 😭
+
+I figured since I already messed up and I have spare PCBs and neopixels I could use this board to practice a little bit so I just tried to solder two more neopixels (one with flux and another one without) and it turns out soldering without any flux is easier lmao I should lowkey return it
+
+This is how the practice PCB ended up looking:
+
+<img src="assets/first-attempt-aug-23.jpeg" width=500px>
+
+I tried powering it on just to see if it would work and surprisingly all 3 neopixels worked??? Nonetheless I didn't want to risk using that board and started from scratch anyways :pf:
+
+Well now that I had some practice I got a new board and started soldering all neopixels with no issues!! I pre-tinned one pad, positioned the neopixel with tweezers and then melted the solder on that pre-tinned pad to lock it into place and be able to solder the rest of the pads. Hopefully that makes sense, here's a pic I took halfway through:
+
+<img src="assets/half-aug-23.jpeg" width=500px>
+
+Once I soldered all of them I spent a lot of time trying to figure out a way to test if they worked, I tried connecting the pico pins in the PCB to the devboard with jumper wires but that didn't really work so I ended up just soldering the 3 pins I needed to the board (I'll solder the pico properly later on I just wanted to test the neopixels for now lol)
+
+Even with the pico partially soldered I still couldn't get the neopixels to light up and after a lot of troubleshooting I realized I was missing the libraries I needed for the neopixels to work with CircuitPython 😭
+
+Once I got those libraries and ran the code again only the first neopixel lit up naurrrr
+
+To fix it I just had to touch up some of the pads' soldering and little by little they started working until I got to the last one and got all of them to light up yay
+
+Pic below!!
+
+<img src="assets/lit-up-aug-23.jpeg" width=500px>
+
+I also started soldering a few diodes just to see how hard it was and they're actually way easier to solder than the neopixels! Here's a pic of the first 5 diodes I soldered
+
+<img src="assets/diodes-aug-23.jpeg" width=500px>
+
+Anyways hopefully I'll continue soon!!
+
+**Time spent this session: 5h**
