@@ -257,3 +257,26 @@ I also started soldering a few diodes just to see how hard it was and they're ac
 Anyways hopefully I'll continue soon!!
 
 **Time spent this session: 5h**
+
+# September 1: Finished soldering diodes and pico
+
+I soldered all of the diodes today yayyy
+
+Have some pics :3c
+
+<img src="assets/diodes-front-sept-1.jpeg" width=500px>
+<img src="assets/diodes-back-sept-1.jpeg" width=500px>
+
+I had to cut the leads but didn't have flush cutters so uh I just used nail clippers instead 💀 (if it works it works am I right)
+
+I also finished properly soldering the pico into the PCB and I think I did a pretty good job! Or at least it looks like it, I just hope it works :pf:
+
+This is how it looks rn
+
+<img src="assets/pico-sept-1.jpeg" width=500px>
+
+Oh and uh I also noticed one of the neopixels wasn't really working properly and since it broke the chain half of the LEDs didn't light up but I just added some solder to the pads and now it's working again so hopefully it stays like that lmao
+
+Uhhh yeah that's pretty much it!!
+
+**Time spent this session: 2h**
