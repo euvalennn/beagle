@@ -280,3 +280,25 @@ Oh and uh I also noticed one of the neopixels wasn't really working properly and
 Uhhh yeah that's pretty much it!!
 
 **Time spent this session: 2h**
+
+# September 15: Ready to solder switches!!
+
+I finally got my plate 3D printed today!! I had to split it in half for it to fit but I'll figure out how to join it later, I guess it'll be fine since the switches will be soldered onto the PCB anyways :pf:
+
+I also started mounting all the stabilizers but struggled for a bit cause I didn't know how to screw them in but after googling it I managed to do it!! Had to cut some of the diode leads shorter so they'd fit but overall it was pretty easy
+
+Once I was done with that I soldered the OLED and the rotary onto the PCB (it was a little difficult with all the stabilizers getting in the way but I think I did a pretty good job regardless)
+
+Pictures!!
+
+<img src="assets/pcb-front-sept-15.jpeg" width=500px>
+
+After that I just started (carefully!!) snapping all of the switches into the plate, and by the time I finished it got pretty late so I'll just leave the soldering for another day lol
+
+Pic below :3c
+
+<img src="assets/plate-sept-15.jpeg" width=500px>
+
+I procrastinated wayyy too much on this but I think I'll finally get to finish it soon :D
+
+**Time spent this session: 1.5h**
