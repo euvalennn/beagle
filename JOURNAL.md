@@ -302,3 +302,31 @@ Pic below :3c
 I procrastinated wayyy too much on this but I think I'll finally get to finish it soon :D
 
 **Time spent this session: 1.5h**
+
+# September 19: Finished soldering everything + firmware!!!
+
+I finally got all parts of my keyboard working today!!! Yippeeee
+
+First off I tried to align the plate with the PCB to solder the switches but I did struggle for quite some time considering the plate was split in half and the halves didn't align properly 😭
+
+After a while trying to make it fit I realized I was also missing the switches that went into the keyholes that got split by the seam between the two plate halves (does that make sense?) so to join both halves together I just slid the missing switches on both sides and joined them that way. (sorry I can't think of another way to explain it I just hope that made sense :pf:)
+
+Once I had both halves joined into a single plate, I pushed it on the PCB for a bit until all of the switches were on the same level (it actually took a while lol). Then I just proceeded to solder all of the switch pins which was actually pretty easy and took less time than aligning the plate 💀
+
+After finishing soldering all of the switches I went to take a look at the firmware to finish coding it properly and it actually wasn't too hard for the most part! I think the QMK docs might've changed cause they're more intuitive and easier to understand than I remembered. I set up the rotary encoder for volume and set all of the neopixels to a solid blue-ish color, although they're individually addressable so I might set up some cooler effects when I get more time.
+
+I got really worried when trying to get the OLED working though, cause for some reason no matter what I did it just didn't light up. I genuinely spent like almost 2 hours and didn't go to sleep until 3am just trying to troubleshoot the display 😭
+
+I tried everything I saw online on random Reddit threads and even tested the OLED with MicroPython to see if it was broken but it did work, it just didn't work with QMK.
+
+It turns out the problem was that I set the I2C driver as I2CD1 and looking at the RP2040 datasheet I should've set it to I2CD0 based on the pins I used. Once I changed that the OLED started working perfectly fine and honestly I'm so glad I noticed that because it was such an easy thing to miss :pf:
+
+Well I'm happy to say that the functional part of the keyboard works!! I just gotta get the case and stuff 3D printed now and put all of the keycaps on but other than that I'm pretty much finished yay
+
+Oh and I also made the bottom-left Fn key function as the macOS globe key so that it brings up the emoji picker since I use that a lot! It isn't a built-in keycode in QMK but I found a really convenient guide online (https://skip.house/blog/qmk-globe-key#adding-the-globe-key-to-your-qmk-keymap) that shows how to make it work and it's actually pretty simple! Props to the guy who wrote that guide for making it, his website is really cool haha
+
+Okay I think that's pretty much about it for now :p
+
+<img src="assets/keyboard-sept-19.jpeg" width=500px>
+
+**Time spent this session: 3h (maybe like 1 hour soldering and 2 hours on firmware)**

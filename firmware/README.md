@@ -1,1 +1,1 @@
-QMK firmware is WIP! i'll finish adding all features once I build my keyboard
+This QMK firmware sets all of the neopixels to a blue-ish color, makes the rotary encoder control the volume and displays a simple test message on the OLED display. The layout is the same as that of a regular US MacBook keyboard, including the globe/fn key in the bottom-left corner to switch keyboard layouts or open the emoji picker on macOS.

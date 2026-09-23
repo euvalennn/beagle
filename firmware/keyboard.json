@@ -1,14 +1,15 @@
 {
-    "manufacturer": "euvalennn",
+    "manufacturer": "valen",
     "keyboard_name": "beagle",
     "maintainer": "euvalennn",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
     "features": {
-        "bootmagic": true,
-        "extrakey": true,
-        "mousekey": true,
-        "nkro": true
+        "encoder": true,
+        "encoder_map": true
+    },
+    "encoder": {
+        "rotary": [{ "pin_a": "GP27", "pin_b": "GP26" }]
     },
     "matrix_pins": {
         "cols": [
@@ -30,7 +31,7 @@
         "rows": ["GP0", "GP1", "GP2", "GP3", "GP4", "GP5"]
     },
     "processor": "RP2040",
-    "url": "",
+    "url": "https://beagle.valen.zip",
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x0000",

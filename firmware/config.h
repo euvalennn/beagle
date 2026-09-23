@@ -1,4 +1,10 @@
-#define ENCODER_A_PINS { GP27 }
-#define ENCODER_B_PINS { GP26 }
+#pragma once
+
+#define I2C_DRIVER I2CD0
 #define I2C1_SDA_PIN GP20
 #define I2C1_SCL_PIN GP21
+
+#define WS2812_DI_PIN GP28
+#define RGBLIGHT_LED_COUNT 77
+#define RGBLIGHT_LIMIT_VAL 128
+#define RGBLIGHT_DEFAULT_HUE 148
