@@ -330,3 +330,21 @@ Okay I think that's pretty much about it for now :p
 <img src="assets/keyboard-sept-19.jpeg" width=500px>
 
 **Time spent this session: 3h (maybe like 1 hour soldering and 2 hours on firmware)**
+
+# September 22: Placed all keycaps and tested the keyboard for a bit
+
+I was planning on finishing the keyboard's assembly today but I'm still waiting on one part (the bottom base) to finish printing, so I figured I could at least start placing all of the keycaps!
+
+I am missing one of the right alt/option keys so I just replaced it with an arrow for now lol I might actually just replace some of the 1u keycaps with the ones I got from Outpost though!!
+
+Once I placed all of the keycaps I tried the keyboard for a little bit on monkeytype and while I'm a pretty slow typer the keyboard works well and makes a lot of noise which I like :3
+
+Here's a pic of the keyboard with the keycaps on and some of my monkeytype sessions lmao
+
+<img src="assets/keyboard-sept-22.jpeg" width=500px>
+
+<img src="assets/monkeytype-1.png" width=500px>
+
+<img src="assets/monkeytype-2.png" width=500px>
+
+**Time spent this session: 0.5h**
