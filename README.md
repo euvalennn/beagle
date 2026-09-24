@@ -20,6 +20,13 @@ The PCB also features a silkscreen hand-drawn by myself! :D
 - neopixels under each switch for RGB backlighting
 - sick hand-drawn silkscreen!!
 
+## IRL build pictures
+
+<img src="assets/lights-on-final.jpeg" width=500px>\
+<img src="assets/lights-off-final.jpeg" width=500px>\
+<img src="assets/front-final.jpeg" width=500px>\
+<img src="assets/back-final.jpeg" width=500px>
+
 ## More CAD pictures
 
 <img src="assets/renders/render2.png" width=500px>\

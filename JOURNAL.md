@@ -348,3 +348,25 @@ Here's a pic of the keyboard with the keycaps on and some of my monkeytype sessi
 <img src="assets/monkeytype-2.png" width=500px>
 
 **Time spent this session: 0.5h**
+
+# September 23: FINISHED THE KEYBOARD!!!
+
+I FINISHED BUILDING MY KEEB TODAY!! WOOHOO
+
+I finally had all of the parts I needed to assemble everything so today I just inserted the heat set inserts into the top part of the case (it's my first time using inserts but they're actually really easy to use!) and just put everything together to be able to screw it :3
+
+Everything got aligned perfectly and now I'm proud to say I finished my build! Yippeee
+
+I'll leave some pics below and I'll also add some to the README
+
+<img src="assets/lights-on-final.jpeg" width=500px>
+
+<img src="assets/lights-off-final.jpeg" width=500px>
+
+<img src="assets/front-final.jpeg" width=500px>
+
+<img src="assets/back-final.jpeg" width=500px>
+
+I'm ready to submit the build now :D
+
+**Time spent this session: 0.5h**
